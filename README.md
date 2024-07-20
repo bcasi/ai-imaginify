@@ -1,5 +1,7 @@
 <h1> AI Image Editing SAAS Application</h1>
 
+<img alt="imaginify" src="/ai-imaginify/ai-imaginify-app/public/assets/images/image_editor.png">
+
 <h1> TechStack Used:</h1>
 
 <ul>
