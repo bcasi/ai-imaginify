@@ -15,9 +15,6 @@
 <p>Cloudinary for Image Editing</p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p>Clerk for Authentication</p>
 </li>
 <li>
